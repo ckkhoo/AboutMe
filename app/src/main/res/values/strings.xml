@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Address: 123, Jalan Besar, Ulu Sungai Ayam, 83000 Batu Pahat
+        \n\nEducation:
+        \n\tSRJK Xiu Qi, Pontian
+        \n\tSMK Xiu Qi, Pontian
+        \n\tTAR UC, KL
+        \n\tLiverpool, UK
+        \n\tMultimedia University, Malaysia
+
+        \n\nWorking Experiences:
+        \n\tSales Assistant, 99Speedmart
+        \n\tProstitute, KL Hub
+        \n\tLecturer, TAR UC
+
+        \n\nAddress: 123, Jalan Besar, Ulu Sungai Ayam, 83000 Batu Pahat
+        \n\nEducation:
+        \n\tSRJK Xiu Qi, Pontian
+        \n\tSMK Xiu Qi, Pontian
+        \n\tTAR UC, KL
+        \n\tLiverpool, UK
+        \n\tMultimedia University, Malaysia
+
+        \n\nWorking Experiences:
+        \n\tSales Assistant, 99Speedmart
+        \n\tProstitute, KL Hub
+        \n\tLecturer, TAR UC
+    </string>
+
+</resources>
