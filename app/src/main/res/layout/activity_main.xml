@@ -15,13 +15,34 @@
         android:text="@string/app_name"
         app:fontFamily="@font/roboto" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="256dp"
-        android:layout_height="256dp"
+    <TextView
+        android:id="@+id/textViewProfName"
+        style="@style/font_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:contentDescription="@string/profile_pic"
-        app:srcCompat="@drawable/smileyface" />
+        android:layout_margin="15dp"
+        android:text="@string/profile_name" />
+
+    <EditText
+        android:id="@+id/editTextNickname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/nickname_textholder"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="15dp"
+        android:background="#6ac85e"
+        android:text="@string/nickname_done"
+        android:textColor="@android:color/white" />
 
     <ScrollView
         android:layout_width="match_parent"

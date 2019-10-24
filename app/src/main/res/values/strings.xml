@@ -1,32 +1,16 @@
 <resources>
-    <string name="app_name">About Me</string>
-    <string name="profile_pic">Profile Picture</string>
+    <string name="app_name">About Me 2</string>
+    <string name="profile_name">Alecks Haecky</string>
+    <string name="nickname_textholder">What is your Nickname?</string>
+    <string name="nickname_done">DONE</string>
     <string name="profile_desc">
-        Address: 123, Jalan Besar, Ulu Sungai Ayam, 83000 Batu Pahat
-        \n\nEducation:
-        \n\tSRJK Xiu Qi, Pontian
-        \n\tSMK Xiu Qi, Pontian
-        \n\tTAR UC, KL
-        \n\tLiverpool, UK
-        \n\tMultimedia University, Malaysia
+        Hi, my name is Aleks.
 
-        \n\nWorking Experiences:
-        \n\tSales Assistant, 99Speedmart
-        \n\tProstitute, KL Hub
-        \n\tLecturer, TAR UC
+        \n\nI love fish.
+        \n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+        \nFun fact is that I have several aquariums and also a river.
 
-        \n\nAddress: 123, Jalan Besar, Ulu Sungai Ayam, 83000 Batu Pahat
-        \n\nEducation:
-        \n\tSRJK Xiu Qi, Pontian
-        \n\tSMK Xiu Qi, Pontian
-        \n\tTAR UC, KL
-        \n\tLiverpool, UK
-        \n\tMultimedia University, Malaysia
-
-        \n\nWorking Experiences:
-        \n\tSales Assistant, 99Speedmart
-        \n\tProstitute, KL Hub
-        \n\tLecturer, TAR UC
+        \n\nI like eating fish, too. Raw fish.
     </string>
 
 </resources>
